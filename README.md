@@ -100,10 +100,10 @@ This project demonstrates end-to-end skills in data wrangling, interactive visua
 ![image](https://github.com/user-attachments/assets/3de943e9-0350-4c48-85fc-08148e9895ac)
 
 ![image](https://github.com/user-attachments/assets/237eb4c1-85a2-463a-b967-165eec348856)
-![image](https://github.com/user-attachments/assets/bb525d3e-1815-480d-99c0-aedfc0d73d76)
+![image](https://github.com/user-attachments/assets/dfcd594a-3851-4d39-ac43-5bfb0bc947db)
+
 
 ![image](https://github.com/user-attachments/assets/de15749e-4566-4947-8aa4-8b3da87625ea)
-
 ![image](https://github.com/user-attachments/assets/45b8173a-2943-41cd-a779-b01d987499c4)
 
 
