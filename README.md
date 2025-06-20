@@ -2,7 +2,7 @@
 
 Hi, I’m **Nachiket Talwar** — this portfolio showcases real-world data science projects built across Python, R, SQL, and GIS environments. Each project demonstrates practical solutions to complex problems using domain-specific data, statistical modeling, spatial analytics, and interactive dashboards.
 
-### 🔍 What You’ll Find Here:
+### 🔍 Projects:
 
 * **Public Health Analytics**:
   An interactive R Shiny dashboard analyzing chronic disease risk factors like diabetes and heart disease using PCA, clustering, and comparative plots.
@@ -16,7 +16,7 @@ Hi, I’m **Nachiket Talwar** — this portfolio showcases real-world data scien
 * **Transport Accessibility Mapping**:
   A spatial SQL and QGIS project comparing public transport coverage in two Melbourne suburbs using GTFS data, route clipping, and buffer-based accessibility zones.
 
-### 💼 Tools & Skills Highlighted:
+### 💼 Tools & Skills:
 
 * Python (OOP, pandas, matplotlib, NumPy)
 * R & R Shiny (ggplot2, plotly, clustering)
