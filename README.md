@@ -1,3 +1,32 @@
+# 👋 Welcome to My Data Science Portfolio
+
+Hi, I’m **Nachiket Talwar** — this portfolio showcases real-world data science projects built across Python, R, SQL, and GIS environments. Each project demonstrates practical solutions to complex problems using domain-specific data, statistical modeling, spatial analytics, and interactive dashboards.
+
+### 🔍 What You’ll Find Here:
+
+* **Public Health Analytics**:
+  An interactive R Shiny dashboard analyzing chronic disease risk factors like diabetes and heart disease using PCA, clustering, and comparative plots.
+
+* **Property Investment Automation**:
+  A Python-based CLI tool that streamlines property investment decisions with suburb summaries, currency conversion, and price distribution analysis.
+
+* **Car Purchase Advisory System**:
+  A simulated console program for car recommendations and retailer ordering, with business-hour logic and local file integration.
+
+* **Transport Accessibility Mapping**:
+  A spatial SQL and QGIS project comparing public transport coverage in two Melbourne suburbs using GTFS data, route clipping, and buffer-based accessibility zones.
+
+### 💼 Tools & Skills Highlighted:
+
+* Python (OOP, pandas, matplotlib, NumPy)
+* R & R Shiny (ggplot2, plotly, clustering)
+* SQL & PostGIS (spatial queries, buffers, intersections)
+* QGIS (visual mapping)
+* Git & GitHub for version control and documentation
+
+Feel free to browse the repos or [connect with me on LinkedIn](https://www.linkedin.com/in/nachiket-tal/) to chat about data roles, projects, or collaboration.
+
+
 
 # Automation of Property Investment (Python)
 
