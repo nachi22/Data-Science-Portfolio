@@ -27,7 +27,7 @@ Feel free to browse the repos or [connect with me on LinkedIn](https://www.linke
 
 
 
-# Automation of Property Investment (Python)
+## Automation of Property Investment (Python)
 
 A Python-based, menu-driven console application designed to automate administrative tasks for a property investment company using real estate sales data from Melbourne. Built with object-oriented design principles, the program simplifies data analysis and investor decision-making.
 Core Functionalities:
@@ -46,3 +46,27 @@ Core Functionalities:
   * Price Search Tool: Implements reverse insertion sort and recursive binary search to locate properties by price within a suburb.
 
 This project showcases robust Python programming skills, data manipulation using pandas and NumPy, and visualization with matplotlib. The system demonstrates error handling, user input validation, and compliance with PEP 8 standards.
+
+
+## Car Purchase Advisor System
+
+A Python-based interactive command-line application that simulates a car dealership advisory and ordering system with built-in test data generation. 
+Key features include:
+* Automated Data Generation: On startup, randomized car stock data is created and stored in `stock.txt`, then loaded into program memory.
+
+* Interactive Menu: 
+      Users can:
+        * Find the nearest car retailer based on postcode proximity.
+        * Receive tailored car purchase advice from selected retailers.
+        * Place car orders (validated against retailer business hours).
+        * Exit the program.
+
+* Retailer Search & Advice Options:   
+    Includes:
+      * Recommending a random car from stock.
+      * Viewing all cars or filtering by type (e.g., “AWD”, “RWD”).
+      * Displaying cars suitable for probationary licence holders.
+
+* Order Processing: Validates input and operating hours before writing confirmed orders to `order.txt`.
+
+This system showcases structured file handling, input validation, randomness, conditional logic, and menu-driven interaction.
