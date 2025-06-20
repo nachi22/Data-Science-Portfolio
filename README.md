@@ -87,3 +87,27 @@ Key Features:
   * User-Centric Design: Built using Munzner’s What-Why-How framework and Gestalt principles for clarity and interactivity.
 
 This project demonstrates end-to-end skills in data wrangling, interactive visualization design, statistical insight generation, and user-oriented dashboard development using the R ecosystem.
+
+### Dashboard Visuals
+![image](https://github.com/user-attachments/assets/299b2d3f-6357-491e-96ef-7d91cd5f565f)
+
+![image](https://github.com/user-attachments/assets/910ace00-42fd-4046-8e97-61ee0d6f2c79)
+
+![image](https://github.com/user-attachments/assets/3bd22080-7f57-49da-89cc-190feaf24695)
+
+![image](https://github.com/user-attachments/assets/6f1042f4-81de-4e97-9acc-15665ee6513e)
+
+![image](https://github.com/user-attachments/assets/3de943e9-0350-4c48-85fc-08148e9895ac)
+
+![image](https://github.com/user-attachments/assets/237eb4c1-85a2-463a-b967-165eec348856)
+![image](https://github.com/user-attachments/assets/bb525d3e-1815-480d-99c0-aedfc0d73d76)
+
+![image](https://github.com/user-attachments/assets/de15749e-4566-4947-8aa4-8b3da87625ea)
+
+![image](https://github.com/user-attachments/assets/45b8173a-2943-41cd-a779-b01d987499c4)
+
+
+
+
+
+
