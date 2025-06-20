@@ -108,6 +108,29 @@ This project demonstrates end-to-end skills in data wrangling, interactive visua
 
 
 
+## Route and Accessibility Analysis and Comparison (PostGIS + QGIS)
 
+A spatial analytics project evaluating public transport accessibility in Burwood and Clayton South suburbs of Melbourne using SQL-based spatial queries and QGIS visualizations. 
+The goal was to identify underserved zones and analyze differences between a university-centered suburb (Burwood) and a less transit-focused one (Clayton South).
 
+Key Features:
+  * Spatial Data Integration: Loaded and processed GTFS data and Australian suburb boundaries into PostgreSQL/PostGIS using `ogr2ogr`.
+  
+  * Transport Mode Analysis: Mapped tram, bus, and train routes within suburb boundaries using spatial clipping (`ST_Within`, `ST_Intersection`).
+  
+  * Accessibility Buffering: Created 500m buffer zones around stops/routes to determine walkable coverage areas.
+  
+  * Gap Identification: Calculated non-accessible regions using `ST_Difference`, highlighting transit service disparities.
+  
+  * Visualization: Developed thematic maps in QGIS for accessible vs. non-accessible zones and transport mode overlays.
 
+The project demonstrates expertise in spatial SQL, geospatial data processing, and transport equity analysis using open-source tools and real-world datasets.
+
+### Geospatial Analysis Visuals
+![image](https://github.com/user-attachments/assets/91580c39-6f13-4dc6-8367-271362e0dc3d)
+
+![image](https://github.com/user-attachments/assets/5b6b08a5-73df-41cc-8843-45b75ec75be4)
+
+![image](https://github.com/user-attachments/assets/0ac20037-63e5-4226-b01b-c6db30c4e4f8)
+
+![image](https://github.com/user-attachments/assets/37b409d7-4726-4851-afd5-8eeee68774eb)
