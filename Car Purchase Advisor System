@@ -1,1 +1,22 @@
+Car Purchase Advisor System
 
+A Python-based interactive command-line application that simulates a car dealership advisory and ordering system with built-in test data generation. 
+Key features include:
+* Automated Data Generation: On startup, randomized car stock data is created and stored in `stock.txt`, then loaded into program memory.
+
+* Interactive Menu: 
+      Users can:
+        * Find the nearest car retailer based on postcode proximity.
+        * Receive tailored car purchase advice from selected retailers.
+        * Place car orders (validated against retailer business hours).
+        * Exit the program.
+
+* Retailer Search & Advice Options:   
+    Includes:
+      * Recommending a random car from stock.
+      * Viewing all cars or filtering by type (e.g., “AWD”, “RWD”).
+      * Displaying cars suitable for probationary licence holders.
+
+* Order Processing: Validates input and operating hours before writing confirmed orders to `order.txt`.
+
+This system showcases structured file handling, input validation, randomness, conditional logic, and menu-driven interaction.
