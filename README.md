@@ -70,3 +70,20 @@ Key features include:
 * Order Processing: Validates input and operating hours before writing confirmed orders to `order.txt`.
 
 This system showcases structured file handling, input validation, randomness, conditional logic, and menu-driven interaction.
+
+
+## Chronic Diseases Risk Factor Dashboard (R Shiny)
+![image](https://github.com/user-attachments/assets/86ab2460-a004-471d-abda-3af154b6c2f1)
+
+
+An interactive R Shiny dashboard that visualizes key risk factors contributing to heart disease and diabetes. Designed for healthcare professionals and policymakers, the dashboard integrates choropleth maps, violin plots, pair plots, stacked area charts, and clustering analyses (PCA and K-means) to enable data-driven exploration and insight generation.
+Key Features:
+  * Exploratory Tabs: Heart Disease, Diabetes, and Comparative Analysis tabs, each featuring interactive charts and filters.
+  
+  * Visual Techniques: Uses ggplot2, Plotly, Leaflet, and DT to deliver dynamic visual narratives (e.g., gender-based comparisons, age distributions, symptom correlations).
+  
+  * Advanced Analytics: PCA and K-means clustering to uncover hidden patterns and similarities across diseases.
+  
+  * User-Centric Design: Built using Munzner’s What-Why-How framework and Gestalt principles for clarity and interactivity.
+
+This project demonstrates end-to-end skills in data wrangling, interactive visualization design, statistical insight generation, and user-oriented dashboard development using the R ecosystem.
