@@ -22,7 +22,6 @@ Hi, I’m **Nachiket Talwar** — this portfolio showcases real-world data scien
 * R & R Shiny (ggplot2, plotly, clustering)
 * SQL & PostGIS (spatial queries, buffers, intersections)
 * QGIS (visual mapping)
-* Git & GitHub for version control and documentation
 
 Feel free to browse the repos or [connect with me on LinkedIn](https://www.linkedin.com/in/nachiket-tal/) to chat about data roles, projects, or collaboration.
 
