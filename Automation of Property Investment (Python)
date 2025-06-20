@@ -1,1 +1,19 @@
+Automation of Property Investment (Python)
 
+A Python-based, menu-driven console application designed to automate administrative tasks for a property investment company using real estate sales data from Melbourne. Built with object-oriented design principles, the program simplifies data analysis and investor decision-making.
+Core Functionalities:
+  * Data Import & Cleaning: Loads property data and prepares it for analysis.
+  
+  * Currency Conversion: Converts property prices to international currencies using dynamic exchange rates.
+  
+  * Suburb Summaries: Generates statistical summaries (mean, median, standard deviation, etc.) of property features by suburb.
+
+  * Land Size Analysis: Computes average land size by suburb, handling unit variations and missing data.
+
+  * Value Distribution: Visualizes property prices across suburbs using histograms (multi-currency support).
+
+  * Sales Trend Visualization: Plots annual property sales trends via line charts.
+
+  * Price Search Tool: Implements reverse insertion sort and recursive binary search to locate properties by price within a suburb.
+
+This project showcases robust Python programming skills, data manipulation using pandas and NumPy, and visualization with matplotlib. The system demonstrates error handling, user input validation, and compliance with PEP 8 standards.
