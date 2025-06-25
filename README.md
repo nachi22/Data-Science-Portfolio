@@ -134,3 +134,20 @@ The project demonstrates expertise in spatial SQL, geospatial data processing, a
 ![image](https://github.com/user-attachments/assets/0ac20037-63e5-4226-b01b-c6db30c4e4f8)
 
 ![image](https://github.com/user-attachments/assets/37b409d7-4726-4851-afd5-8eeee68774eb)
+
+
+
+## Real-time eCommerce Fraud Detection with PySpark & Kafka
+Built an end-to-end fraud detection system for an eCommerce platform using PySpark, MLlib, and Kafka. The project involved training classification models (Random Forest, GBT) on customer and browsing behaviour data to detect Card-Not-Present (CNP) fraud, followed by real-time prediction via Spark Structured Streaming.
+
+Key Features:
+
+* Performed large-scale data wrangling, feature engineering, and behavioral clustering using PySpark.
+
+* Trained and evaluated fraud detection models with AUC, precision, recall, and ROC metrics.
+
+* Deployed models for real-time prediction using Kafka-streamed session data.
+
+* Visualised live fraud alerts and customer shopping trends using custom Kafka consumers and dynamic dashboards.
+
+This project demonstrates scalable big data processing, real-time ML deployment, and robust fraud detection logic across streaming and batch data environments.
